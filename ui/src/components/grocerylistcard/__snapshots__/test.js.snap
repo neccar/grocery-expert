@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders GroceryListCard 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 MuiCard-root-1"
+>
+  <div
+    className="MuiFormControl-root-29 MuiFormControl-marginNormal-30"
+  >
+    <div
+      className="MuiInputBase-root-46 MuiInput-root-33 MuiInput-underline-37 MuiInputBase-formControl-47 MuiInput-formControl-34"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        className="MuiInputBase-input-56 MuiInput-input-41"
+        disabled={false}
+        id="standard-name"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+        value="Saturday Grocery List"
+      />
+    </div>
+  </div>
+  <div
+    className="MuiCardContent-root-63"
+  >
+    <span
+      className="MuiButtonBase-root-80 MuiIconButton-root-74 MuiPrivateSwitchBase-root-70 MuiCheckbox-root-64 MuiCheckbox-colorSecondary-69"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={null}
+    >
+      <span
+        className="MuiIconButton-label-79"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-83"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+          />
+        </svg>
+        <input
+          checked={false}
+          className="MuiPrivateSwitchBase-input-73"
+          data-indeterminate={false}
+          onChange={[Function]}
+          type="checkbox"
+        />
+      </span>
+      <span
+        className="MuiTouchRipple-root-92"
+      />
+    </span>
+    <div
+      className="MuiFormControl-root-29 MuiFormControl-marginNormal-30"
+    >
+      <div
+        className="MuiInputBase-root-46 MuiInput-root-33 MuiInput-underline-37 MuiInputBase-formControl-47 MuiInput-formControl-34"
+        onClick={[Function]}
+      >
+        <input
+          aria-invalid={false}
+          className="MuiInputBase-input-56 MuiInput-input-41"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          required={false}
+          type="text"
+          value="1 kg tomato"
+        />
+      </div>
+    </div>
+    <br />
+    <span
+      className="MuiButtonBase-root-80 MuiIconButton-root-74 MuiPrivateSwitchBase-root-70 MuiCheckbox-root-64 MuiCheckbox-colorSecondary-69 MuiPrivateSwitchBase-checked-71 MuiCheckbox-checked-65"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={null}
+    >
+      <span
+        className="MuiIconButton-label-79"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-83"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+          />
+        </svg>
+        <input
+          checked={true}
+          className="MuiPrivateSwitchBase-input-73"
+          data-indeterminate={false}
+          onChange={[Function]}
+          type="checkbox"
+        />
+      </span>
+      <span
+        className="MuiTouchRipple-root-92"
+      />
+    </span>
+    <div
+      className="MuiFormControl-root-29 MuiFormControl-marginNormal-30"
+    >
+      <div
+        className="MuiInputBase-root-46 MuiInput-root-33 MuiInput-underline-37 MuiInputBase-formControl-47 MuiInput-formControl-34"
+        onClick={[Function]}
+      >
+        <input
+          aria-invalid={false}
+          className="MuiInputBase-input-56 MuiInput-input-41"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          required={false}
+          type="text"
+          value="2 kg potato"
+        />
+      </div>
+    </div>
+    <br />
+  </div>
+</div>
+`;
+
+exports[`Renders GroceryListItem 1`] = `
+Array [
+  <span
+    className="MuiButtonBase-root-80 MuiIconButton-root-74 MuiPrivateSwitchBase-root-70 MuiCheckbox-root-64 MuiCheckbox-colorSecondary-69"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={null}
+  >
+    <span
+      className="MuiIconButton-label-79"
+    >
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root-83"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+        />
+      </svg>
+      <input
+        checked={false}
+        className="MuiPrivateSwitchBase-input-73"
+        data-indeterminate={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+    </span>
+    <span
+      className="MuiTouchRipple-root-92"
+    />
+  </span>,
+  <div
+    className="MuiFormControl-root-29 MuiFormControl-marginNormal-30"
+  >
+    <div
+      className="MuiInputBase-root-46 MuiInput-root-33 MuiInput-underline-37 MuiInputBase-formControl-47 MuiInput-formControl-34"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        className="MuiInputBase-input-56 MuiInput-input-41"
+        disabled={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        type="text"
+        value="1 kg tomato"
+      />
+    </div>
+  </div>,
+  <br />,
+]
+`;
