@@ -6,7 +6,8 @@
 There are 2 projects, ui and api
 
 First cd into api and run
-```npm install
+```
+npm install
 npm run start:development
 ```
 
@@ -14,7 +15,8 @@ then navigate to http://localhost:4444/api/grocerylists
 you should see some data in json
 
 Open another tab in terminal and cd into ui folder and run
-```npm install
+```
+npm install
 npm run start
 ```
 then navigate to http://localhost:3000/
