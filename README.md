@@ -22,5 +22,8 @@ npm run start
 then navigate to http://localhost:3000/
 
 
-you should see something ;)
+you should see something like below ;)
+
+![](gexpert.gif)
+
 
